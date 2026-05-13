@@ -59,7 +59,7 @@ After cleaning, the data was imported into MySQL and 13 business questions were 
 
 ##  📊 Dashboard Preview
 
-![Dashboard Page 1](/Screenshots/Page%201.png)
+![Dashboard Page 1](https://github.com/bhavyasanoria01-lab/Credit-Card-Transactions-Spending-Analysis/blob/761f3263e2aa6e7ff577cb47e38d206b4f5dd3db/Page%201.png)
 
 ![Dashboard Page 2](/Screenshots/Page%202.png)
 
