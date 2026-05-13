@@ -61,7 +61,7 @@ After cleaning, the data was imported into MySQL and 13 business questions were 
 
 ![Dashboard Page 1](https://github.com/bhavyasanoria01-lab/Credit-Card-Transactions-Spending-Analysis/blob/761f3263e2aa6e7ff577cb47e38d206b4f5dd3db/Page%201.png)
 
-![Dashboard Page 2](/Screenshots/Page%202.png)
+![Dashboard Page 2](https://github.com/bhavyasanoria01-lab/Credit-Card-Transactions-Spending-Analysis/blob/237834069f8474e1221444598da056eb83065527/Page%202.png)
 
 ##  📝 Learnings & Challenges
 This was my second end to end data analytics project and a significant step up from the first one. Working with **65000** rows for the first time taught me the importance of query optimization. I also learned new SQL concepts in this project including the **LAG()** window function for year over year calculations and the **SUM(binary_column)** pattern for counting fraud transactions efficiently. The biggest analytical challenge was correctly calculating fraud rate — my first attempt filtered the data with WHERE is_fraud = 1 which made the percentage always return 100%. Understanding why that was wrong deepened my understanding of how SQL executes queries. On the dashboard side, building a dedicated fraud analysis page taught me how to tell a story with data and not just showing numbers but guiding the viewer from what happened to why it matters.
